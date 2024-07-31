@@ -1,3 +1,11 @@
+## I decided to make this since I couldn't find any instructions online about how to transfer music to and from my old iPod for free. Everything is a scam onine -_-
+
+If you want the iTunes file included you will probably have to download it with git bash since it is bigger than github likes. 
+Simply ask some Ai service "how do I install git bash and use it to clone a repository from git hub" It will give you instructions. 
+Basically you download gitbash, then type `cd C:\Users\YOURNAME\Downloads` then type `git clone PASTEURLHERE` and the url is from the main page you are hopefully reading this from. 
+Click the green "<Code>" button on the top right and then copy the 'clone URL' and paste it into the `git clone` statement.
+
+
 - https://yuo.be/ipod-manager
 - https://wiki.yuo.be/dop:start
 
