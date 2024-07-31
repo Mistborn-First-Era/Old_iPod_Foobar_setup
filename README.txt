@@ -32,3 +32,5 @@ Click the green "<Code>" button on the top right and then copy the 'clone URL' a
 - If there was an error when installing iTunes that mentions rebuilding using a newer version of some preinstalled file you need to uninstall iTunes and then use Everything to search your computer for that file and manually delete it. Then reinstall the old Itunes again.
 
 - I don't know how to resolve other errors that may occur, use the wiki link provided on the second line if you have them and good luck. 
+
+SEO : how to transfer music off an old iPod for free, how to get music off iPod
