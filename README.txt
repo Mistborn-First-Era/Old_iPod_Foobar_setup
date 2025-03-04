@@ -23,7 +23,7 @@ Click the green "<Code>" button on the top right and then copy the 'clone URL' a
 
 7. File -> Preferences -> component -> Install component -> foo_dop-0.7.2 provided (or find online)
 
-8. Enable "mobile device support" in the iPod component advanced settings in the preferences tab.
+8. File -> Preferences -> Tools -> iPod Manager -> Mobile Devices tab -> Enable mobile device support
 
 9. Plug in iPod and then use File -> iPod -> Load Library
 
